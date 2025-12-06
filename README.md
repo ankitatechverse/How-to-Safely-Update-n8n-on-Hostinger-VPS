@@ -4,25 +4,6 @@ This guide walks you step-by-step through safely updating your n8n instance on a
 
 Hostinger’s n8n VPS comes with Docker + Docker Compose pre-installed and uses persistent volumes, which means your data stays safe even when containers are recreated.
 
----
-
-## 📌 Table of Contents
-
-* **0. Check if Docker is Installed**
-* **1. Access Hostinger VPS Terminal**
-* **2. (Optional) Clear Terminal**
-* **3. Pull Latest n8n Image**
-* **4. Stop Current n8n Container**
-* **5. Start n8n Using Updated Image**
-* **6. Confirm n8n is Running**
-* **7. Confirm Updated n8n Version**
-* **Data Persistence Explained**
-* **Support**
-* **License**
-* **Author**
-
----
-
 ## 0. Check if Docker is Installed
 
 Before updating n8n, make sure Docker is installed and working.
