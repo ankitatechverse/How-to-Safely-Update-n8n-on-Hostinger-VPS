@@ -12,7 +12,6 @@ Hostinger’s n8n VPS comes with Docker + Docker Compose pre-installed and uses 
 * Log in to Hostinger’s hPanel.
 * Go to the **VPS menu** and click the **Terminal** button in the top-right corner.
 * A black terminal window will open — this is where all update commands will be run.
-* All commands in this guide are also available in the GitHub repo link or Medium article link.
 
 ## 1. Check if Docker is Installed
 
